@@ -19,7 +19,7 @@ Always eager to learn and grow, I enjoy tackling new challenges and building mea
 
 Working on personal projects alongside my professional work to continuously improve my skillset.
 
-## 📦 Featured Projects
+## 📦 Personal Projects
 
 - [db-backup tool](https://github.com/Prateesh94/db-backup-tool)
 - [broadcast-cli](https://github.com/Prateesh94/broadcast-cli)
