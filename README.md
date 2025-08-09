@@ -23,6 +23,7 @@ Working on personal projects alongside my professional work to continuously impr
 
 - [db-backup tool](https://github.com/Prateesh94/db-backup-tool)
 - [broadcast-cli](https://github.com/Prateesh94/broadcast-cli)
+- [Scalable_URL_Shortener](https://github.com/Prateesh94/Scalable_URL_Shortening_Service)
 
 ## 📫 How to Reach Me
 
